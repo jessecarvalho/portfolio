@@ -1,0 +1,54 @@
+#portfolio .portfolio {
+  padding: 50px;
+  color: #fff;
+  background-color: #1b0740;
+}
+
+#portfolio .portfolio.__invert {
+  padding: 50px;
+  color: #000;
+  background-color: #fff;
+}
+#portfolio h2{
+  text-align: center;
+}
+#portfolio .portfolio .row {
+  display: grid;
+}
+#portfolio .portfolio .row {
+  grid-template-columns: calc(40% - 15px) calc(60% - 15px);
+  gap: 30px;
+}
+#portfolio .portfolio img{
+  width: 100%;
+}
+#portfolio .portfolio .technologies {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+}
+#portfolio .portfolio .buttons button {
+  border: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #fff;
+}
+#portfolio .portfolio .buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  gap: 15px;
+}
+#portfolio .portfolio .buttons button.repository {
+  background-color: #fff;
+  color: #000;
+}
+#portfolio .portfolio .buttons button.live {
+  background-color: #12002d;
+}
+#portfolio .portfolio .technologies img {
+  height: 40px;
+}

@@ -1,0 +1,13 @@
+section#about {
+  padding: 50px 20%;
+  background: #fff;
+}
+
+section#about h2 {
+  text-align: center;
+}
+
+section#about p {
+  font-weight: 300;
+  text-align: justify;
+}
