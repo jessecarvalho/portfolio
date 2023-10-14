@@ -1,5 +1,5 @@
 section#carrer {
-  padding: 50px 20%;
+  padding: 50px 20% 25px;
 }
 section#carrer h2 {
   text-align: center;
@@ -27,6 +27,6 @@ section#carrer p{
 
 @media screen and (max-width: 768px) {
   section#carrer {
-    padding: 50px 5%;
+    padding: 50px 5% 0;
   }
 }

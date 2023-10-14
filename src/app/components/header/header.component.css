@@ -41,3 +41,58 @@ nav a {
   color: #fff;
   font-weight: bold;
 }
+
+header nav  #open-menu {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    justify-content: flex-start;
+  }
+
+
+  header nav ul  {
+    /*display: none;*/
+    transform: translateX(-100%);
+    transition-duration: .5s;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #12002d;
+    flex-direction: column;
+    align-items: center;
+    padding: 20% 0 0 0;
+    z-index: 100;
+    display: flex;
+  }
+  header nav ul.active {
+    transform: translateX(0);
+  }
+  header nav ul .languages {
+    position: relative;
+    right: 0;
+    margin-bottom: 25px;
+  }
+  header nav ul #close-menu{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    fill: #fff;
+  }
+  header nav ul li{
+    margin-right: 0;
+    margin-top: 10px;
+  }
+  header nav  #open-menu {
+    display: block;
+    cursor: pointer;
+    fill: #fff;
+  }
+  header nav ul .languages img{
+    cursor: pointer;
+  }
+}

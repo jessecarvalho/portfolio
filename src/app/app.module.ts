@@ -9,6 +9,8 @@ import { SkillsComponent } from "./components/skills/skills.component";
 import { ContactComponent } from "./components/contact/contact.component";
 import { CUSTOM_ELEMENTS_SCHEMA,} from '@angular/core';
 import { register } from 'swiper/element/bundle';
+// @ts-ignore
+import { TranslateModule } from "@ngx-translate/core";
 
 import { AppComponent } from './app.component';
 register();
@@ -31,4 +33,6 @@ register();
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+
+}
