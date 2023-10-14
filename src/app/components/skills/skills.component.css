@@ -1,0 +1,48 @@
+section#skills {
+  padding: 0 20%;
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 768px) {
+  section#skills {
+    padding: 0 5%;
+  }
+}
+section#skills h2 {
+  text-align: center;
+}
+section#skills h3 {
+  text-align: center;
+}
+section#skills .grid {
+  display: grid;
+  grid-template-columns: 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149% 7.149%;
+  flex-direction: row;
+  margin: auto;
+  width: fit-content;
+  justify-content: center;
+}
+@media screen and (max-width: 768px) {
+  section#skills .grid {
+    display: grid;
+    grid-template-columns: 14.2% 14.2% 14.2% 14.2% 14.2% 14.2% 14.2%;
+    flex-direction: row;
+    margin: auto;
+    width: fit-content;
+    justify-content: center;
+  }
+}
+section#skills .grid div{
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 15px 0;
+}
+section#skills .grid div p{
+  margin: 3px 0 0 0;
+  text-align: center;
+  font-size: 8px;
+}
+section#skills .grid img{
+  width: 75%;
+  margin: auto;
+}

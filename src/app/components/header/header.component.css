@@ -9,6 +9,22 @@ header {
   box-sizing: border-box;
 }
 
+header nav {
+  display: flex;
+  flex-direction: row;
+}
+
+header nav .languages {
+  position: absolute;
+  right: 15px;
+}
+
+header nav img {
+  height: 20px;
+  width: 30px;
+  margin: 0 5px;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;

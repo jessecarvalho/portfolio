@@ -2,7 +2,11 @@ section#about {
   padding: 50px 20%;
   background: #fff;
 }
-
+@media screen and (max-width: 768px) {
+  section#about {
+    padding: 50px 5%;
+  }
+}
 section#about h2 {
   text-align: center;
 }

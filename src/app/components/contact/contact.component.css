@@ -1,0 +1,33 @@
+section#contact {
+  background-color: #1b0740;
+  padding: 50px 20%;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+section#contact h2,section#contact h3 {
+  text-align: center;
+  margin: 0;
+}
+
+section#contact h3{
+  font-weight: 300;
+}
+
+section#contact .social-media {
+  display: flex;
+  gap: 15px;
+  width: fit-content;
+  margin: auto;
+}
+
+section#contact .social-media svg {
+  fill: #fff;
+  font-size: 30px;
+}
+
+section#contact a{
+  color: #fff;
+  text-align: center;
+  margin-top: 15px;
+}

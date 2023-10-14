@@ -1,13 +1,16 @@
 section#carrer {
   padding: 50px 20%;
 }
-
 section#carrer h2 {
   text-align: center;
+  margin: 0 0 20px 0;
 }
-
+section#carrer h3 {
+  margin: 0;
+}
 section#carrer h4 {
   font-size: 12px;
+  margin: 0;
 }
 
 section#carrer h5, h5, h6{
@@ -16,4 +19,14 @@ section#carrer h5, h5, h6{
 
 section#carrer div:last-child {
   margin-top: 50px;
+}
+
+section#carrer p{
+  margin: 5px 0 20px 0;
+}
+
+@media screen and (max-width: 768px) {
+  section#carrer {
+    padding: 50px 5%;
+  }
 }

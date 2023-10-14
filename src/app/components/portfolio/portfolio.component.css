@@ -14,10 +14,14 @@
 }
 #portfolio .portfolio .row {
   display: grid;
-}
-#portfolio .portfolio .row {
   grid-template-columns: calc(40% - 15px) calc(60% - 15px);
   gap: 30px;
+}
+@media screen and (max-width: 768px) {
+  #portfolio .portfolio .row {
+    display: flex;
+    flex-direction: column;
+  }
 }
 #portfolio .portfolio img{
   width: 100%;
@@ -51,4 +55,10 @@
 }
 #portfolio .portfolio .technologies img {
   height: 40px;
+}
+
+@media screen and (max-width: 768px) {
+  #portfolio .portfolio .technologies img {
+    height: 20px;
+  }
 }

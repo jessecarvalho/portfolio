@@ -6,6 +6,7 @@ import { AboutComponent } from "./components/about/about.component";
 import { PortfolioComponent } from "./components/portfolio/portfolio.component";
 import { CarrerComponent } from "./components/carrer/carrer.component";
 import { SkillsComponent } from "./components/skills/skills.component";
+import { ContactComponent } from "./components/contact/contact.component";
 import { CUSTOM_ELEMENTS_SCHEMA,} from '@angular/core';
 import { register } from 'swiper/element/bundle';
 
@@ -22,6 +23,7 @@ register();
     PortfolioComponent,
     CarrerComponent,
     SkillsComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule
