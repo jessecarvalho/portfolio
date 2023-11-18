@@ -15,7 +15,7 @@ section#skills h3 {
 }
 section#skills .grid {
   display: grid;
-  grid-template-columns: 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66%;
+  grid-template-columns: 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66% 6.66%;
   flex-direction: row;
   margin: auto;
   width: fit-content;
