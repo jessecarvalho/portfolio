@@ -62,3 +62,9 @@
     height: 20px;
   }
 }
+
+#portfolio p {
+  text-align: center;
+  margin: 20px auto;
+  width: 75%;
+}

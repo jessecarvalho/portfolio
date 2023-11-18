@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="pt" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1737753151350322492" datatype="html">
+        <source><x id="PH" equiv-text="this.title"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6294147152370693691" datatype="html">
+        <source>Quem sou</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4333824576933869440" datatype="html">
+        <source>Nascido em 23/03/2000, atualmente moro em Guarulhos, SP, e trabalho como dev a mais de 4 anos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="954058131648839181" datatype="html">
+        <source>Cursei Ciência da Computação pela Universidade Cruzeiro do Sul no polo de São Miguel, tendo feito o curso nos intervalos de 06/2018 à 06/2023, onde tive um bom desenvolvimento, e solidifiquei minha base como programador aprendendo as principais técnicas e estratégias para o desenvolvimento de algoritmos além de dar uma importante passada por cada uma das áreas do campo.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7274560832605060976" datatype="html">
+        <source>Dei meus primeiros passos na área no começo de 2019 onde comecei a desenvolver e dar manutenção em alguns sites e entrei em meu primeiro estágio na RSN Brasil Técnologias no meio do mesmo ano, após pouco mais de um ano trabalhando na empresa, encontrei uma nova oportunidade na Reação Web, onde entrei também como estagiário e acabei chegando até o cargo de dev pleno.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3176669379417981683" datatype="html">
+        <source>Durante esse período criei e trabalhei em diversos projetos, tanto nas empresas em que trabalhei quanto pessoalmente também fiz diversos cursos e aprendi muitas técnologias.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7759653052444785427" datatype="html">
+        <source>Tenho como principais características, alta adaptabilidade, ótimo trabalho em equipe, bastante foco, sou um hábil solucionador de problemas e tenho muita ambição e capacidade de esforço para atingir meus objetivos e dos objetivos dos projetos onde trabalho.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7150912771738545513" datatype="html">
+        <source>Fora do trabalho meus principais hobbies são: futebol, videogames, filmes, café e praticar natação.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="352285641563415385" datatype="html">
+        <source>Jessé Carvalho</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7725857735913514842" datatype="html">
+        <source>Desenvolvedor Full-Stack</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4561941161392367343" datatype="html">
+        <source>Formado em ciência da computação, atuo como desenvolvedor web full-stack há mais de quatro anos, eu domino diversas tecnologias, como C#, .NET, Node, PHP, Vue, Angular e TypeScript, e estou sempre disposto a aprender novas ferramentas e metodologias. Trabalho bem em equipe e valorizo o feedback e a troca de experiências.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8373630538009589309" datatype="html">
+        <source>Conheça meu trabalho</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6623313007247315208" datatype="html">
+        <source>Experiência</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3866807649563717637" datatype="html">
+        <source>Reação Web</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8682508973279849418" datatype="html">
+        <source>09/2021 ~ Atualmente</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5646872635822817239" datatype="html">
+        <source>Aqui desenvolvi e participei do desenvolvimento de dezenas de sites, sistemas e as mais diversas soluçoes personalizadas. Utilizei principalmente PHP, TypeScript, Vue, HTML, CSS, Node, Git, MySQL, C#, .Net e mais.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4885125835830641082" datatype="html">
+        <source>RSN Brasil Tecnologia</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7020542135281895826" datatype="html">
+        <source>07/2020 ~ 09/2021</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="221537453514314144" datatype="html">
+        <source>Fiz estágio na agência RSN Brasil, onde tive a oportunidade de desenvolver mais de uma dezena de sites, incluindo o site oficial da empresa e seu painel administrativo. Além disso, também criei sites para diversos clientes. Durante essa experiência, utilizei principalmente tecnologias como PHP, Wordpress, JavaScript, HTML e CSS.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4290246255742415487" datatype="html">
+        <source>MainCode</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5741621275200252970" datatype="html">
+        <source>Trabalhei como desenvolvedor web autônomo, onde tive a oportunidade de criar soluções web utilizando uma variedade de tecnologias, como C#, Node.js, PHP e Vue.js. Durante esse período, desenvolvi diversas páginas e landpages, além de ter experiência em integrações com ERPs e sistemas de pagamento. Também tive a oportunidade de criar dashboards e sistemas personalizados.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8131551093316974106" datatype="html">
+        <source>Educação</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8092168789793867091" datatype="html">
+        <source>Ciëncia da computação</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1449895840437602657" datatype="html">
+        <source>Universidade Cruzeiro do Sul</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4875416788810307960" datatype="html">
+        <source>2018 ~ 2023</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5175428171349811858" datatype="html">
+        <source>Neste curso, adquiri conhecimentos teóricos e práticos sobre os fundamentos da computação, como algoritmos, estruturas de dados, linguagens de programação, sistemas operacionais, redes, banco de dados, inteligência artificial e engenharia de software. Também desenvolvi habilidades para analisar, projetar e implementar soluções computacionais para diversos problemas e domínios. Além disso, participei de projetos integradores, atividades complementares e estágios que me proporcionaram experiência profissional e acadêmica na área de computação.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3337144806117287025" datatype="html">
+        <source>Formas de contato e redes sociais</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3333460867573187423" datatype="html">
+        <source>Vamos tomar um café?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/contact/contact.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4342625008558026850" datatype="html">
+        <source>Skills</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9201103587777813545" datatype="html">
+        <source>Portfolio</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8257476377394098008" datatype="html">
+        <source>Carreira</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="818806958497265002" datatype="html">
+        <source>Quem Sou</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1236061678414703716" datatype="html">
+        <source>Contato</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1640542813381005964" datatype="html">
+        <source>Paraíso das Bikes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4770886709230007035" datatype="html">
+        <source>Desenvolvi o site para a bicicletaria Paraíso das Bikes criando do zero uma loja virtual, integração com marketplaces, entre outras soluções personalizadas para a empresa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6315681011775877962" datatype="html">
+        <source>Coin Converter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5785953264811278672" datatype="html">
+        <source>Um conversor de moedas que utiliza a API Exchange Rates para converter as principais moedas em tempo real</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="508697025737368265" datatype="html">
+        <source>Momento Clima</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5660529361213111082" datatype="html">
+        <source>Um website que utiliza a API da Open Weather Map para trazer o clima em tempo real para os usuários</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="252382695939472150" datatype="html">
+        <source>Bookstan</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1913953215554820503" datatype="html">
+        <source>Um website com uma IA que captura os interesses do usuário e sugere os livros mais interessantes para ele ler no momento.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7636688414938280031" datatype="html">
+        <source>Tecnologias e ferramentas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/skills/skills.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

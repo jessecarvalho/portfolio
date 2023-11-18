@@ -6,6 +6,12 @@
     "Portfolio": {
       "projectType": "application",
       "schematics": {},
+      "i18n": {
+        "sourceLocale": "pt",
+        "locales": {
+          "en": "src/locale/messages.en.xlf"
+        }
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -13,6 +19,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "localize": ["pt", "en"],
             "outputPath": "dist/portfolio",
             "index": "src/index.html",
             "main": "src/main.ts",
