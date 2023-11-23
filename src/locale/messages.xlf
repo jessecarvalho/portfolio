@@ -16,8 +16,8 @@
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4333824576933869440" datatype="html">
-        <source>Nascido em 23/03/2000, atualmente moro em Guarulhos, SP, e trabalho como dev a mais de 4 anos</source>
+      <trans-unit id="4735506779424323745" datatype="html">
+        <source>Nascido em 23/03/2000, atualmente moro em Guarulhos, SP, e trabalho como dev há 4 anos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">3</context>
@@ -30,8 +30,8 @@
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7274560832605060976" datatype="html">
-        <source>Dei meus primeiros passos na área no começo de 2019 onde comecei a desenvolver e dar manutenção em alguns sites e entrei em meu primeiro estágio na RSN Brasil Técnologias no meio do mesmo ano, após pouco mais de um ano trabalhando na empresa, encontrei uma nova oportunidade na Reação Web, onde entrei também como estagiário e acabei chegando até o cargo de dev pleno.</source>
+      <trans-unit id="1961074925925439133" datatype="html">
+        <source>Dei meus primeiros passos na área no começo de 2019 onde comecei a desenvolver e dar manutenção em alguns sites e entrei em meu primeiro estágio na RSN Brasil Técnologias no meio do mesmo ano, após pouco mais de uma temporada trabalhando na empresa, encontrei uma nova oportunidade na Reação Web, onde entrei também como estagiário e acabei chegando até o cargo de dev pleno.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">5</context>
@@ -44,8 +44,8 @@
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7759653052444785427" datatype="html">
-        <source>Tenho como principais características, alta adaptabilidade, ótimo trabalho em equipe, bastante foco, sou um hábil solucionador de problemas e tenho muita ambição e capacidade de esforço para atingir meus objetivos e dos objetivos dos projetos onde trabalho.</source>
+      <trans-unit id="6599154689587670284" datatype="html">
+        <source>Tenho como principais características, alta adaptabilidade, ótimo trabalho em equipe, bastante foco e muito esforço, sou um hábil solucionador de problemas e tenho muita ambição e capacidade de esforço para atingir meus objetivos e dos objetivos dos projetos onde trabalho.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">7</context>
@@ -65,15 +65,15 @@
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7725857735913514842" datatype="html">
-        <source>Desenvolvedor Full-Stack</source>
+      <trans-unit id="6588656131584330388" datatype="html">
+        <source>Desenvolvedor Web</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4561941161392367343" datatype="html">
-        <source>Formado em ciência da computação, atuo como desenvolvedor web full-stack há mais de quatro anos, eu domino diversas tecnologias, como C#, .NET, Node, PHP, Vue, Angular e TypeScript, e estou sempre disposto a aprender novas ferramentas e metodologias. Trabalho bem em equipe e valorizo o feedback e a troca de experiências.</source>
+      <trans-unit id="3181152083671858386" datatype="html">
+        <source>Formado em ciência da computação, atuo como desenvolvedor há quatro anos, eu domino diversas tecnologias, como C#, .NET, PHP, Vue, Angular, TypeScript, MySQL, PostgreeSQL e Mongo DB, e estou sempre disposto a aprender novas ferramentas e metodologias. Trabalho bem em equipe e valorizo o feedback e a troca de experiências.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
           <context context-type="linenumber">9</context>
@@ -107,8 +107,8 @@
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5749733862519275731" datatype="html">
-        <source>Aqui desenvolvi e participei do desenvolvimento de dezenas de sites, sistemas e as mais diversas soluçoes personalizadas. Utilizei principalmente C# .NET, PHP, TypeScript, Vue, HTML, CSS, Angular, Git, MySQL, e mais.</source>
+      <trans-unit id="1043355371347370950" datatype="html">
+        <source>Na Reação Web trabalhei no desenvolvimento e manutenção de diversos websites, integrações e sistemas personalizados, contribui no desenvolvimento de uma plataforma SaaS para consultórios médicos, desenvolvi diversas lojas virtuais, liderei o desenvolvimento do sistema interno da empresa, trabalhei na manutenção de um sistema utilizado em cartórios e trabalhei no desenvolvimento de uma plataforma de investimentos.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
           <context context-type="linenumber">6</context>
@@ -128,60 +128,46 @@
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="221537453514314144" datatype="html">
-        <source>Fiz estágio na agência RSN Brasil, onde tive a oportunidade de desenvolver mais de uma dezena de sites, incluindo o site oficial da empresa e seu painel administrativo. Além disso, também criei sites para diversos clientes. Durante essa experiência, utilizei principalmente tecnologias como PHP, Wordpress, JavaScript, HTML e CSS.</source>
+      <trans-unit id="3075061682162919335" datatype="html">
+        <source>Fiz estágio na RSN Brasil como desenvolvedor web atuando no desenvolvimento de sites tanto no sistema interno da empresa como no site de parceiros, também atuei no desenvolvimento de uma plataforma de indicações de uma fintech.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
           <context context-type="linenumber">9</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="4290246255742415487" datatype="html">
-        <source>MainCode</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">10</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="5828869242849677115" datatype="html">
-        <source>Trabalhei como desenvolvedor web autônomo, onde tive a oportunidade de criar soluções web utilizando uma variedade de tecnologias, como C#, PHP, Angular e Vue.js. Durante esse período, desenvolvi diversas páginas e landpages, além de ter experiência em integrações com ERPs e sistemas de pagamento. Também tive a oportunidade de criar dashboards e sistemas personalizados.</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8131551093316974106" datatype="html">
         <source>Educação</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">15</context>
+          <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8092168789793867091" datatype="html">
         <source>Ciëncia da computação</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">16</context>
+          <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1449895840437602657" datatype="html">
         <source>Universidade Cruzeiro do Sul</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">17</context>
+          <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4875416788810307960" datatype="html">
         <source>2018 ~ 2023</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">18</context>
+          <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5175428171349811858" datatype="html">
         <source>Neste curso, adquiri conhecimentos teóricos e práticos sobre os fundamentos da computação, como algoritmos, estruturas de dados, linguagens de programação, sistemas operacionais, redes, banco de dados, inteligência artificial e engenharia de software. Também desenvolvi habilidades para analisar, projetar e implementar soluções computacionais para diversos problemas e domínios. Além disso, participei de projetos integradores, atividades complementares e estágios que me proporcionaram experiência profissional e acadêmica na área de computação.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
-          <context context-type="linenumber">19</context>
+          <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3337144806117287025" datatype="html">
