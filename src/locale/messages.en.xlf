@@ -341,6 +341,54 @@
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="6588656131584330388" datatype="html">
+        <source>Desenvolvedor Web</source>
+        <target>Web Developer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3181152083671858386" datatype="html">
+        <source>Formado em ciência da computação, atuo como desenvolvedor há quatro anos, eu domino diversas tecnologias, como C#, .NET, PHP, Vue, Angular, TypeScript, MySQL, PostgreeSQL e Mongo DB, e estou sempre disposto a aprender novas ferramentas e metodologias. Trabalho bem em equipe e valorizo o feedback e a troca de experiências.</source>
+        <target>As a computer science graduate, I have been working as a web developer for the past four years. I have expertise in various technologies, including C#, .NET, PHP, Vue, Angular, and TypeScript. I have a strong willingness to continually learn new tools and methodologies. I perform well in a team environment, and I highly value feedbacks and the exchange of experiences.</target>0
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/banner/banner.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1043355371347370950" datatype="html">
+        <source>Na Reação Web trabalhei no desenvolvimento e manutenção de diversos websites, integrações e sistemas personalizados, contribui no desenvolvimento de uma plataforma SaaS para consultórios médicos, desenvolvi diversas lojas virtuais, liderei o desenvolvimento do sistema interno da empresa, trabalhei na manutenção de um sistema utilizado em cartórios e trabalhei no desenvolvimento de uma plataforma de investimentos.</source>
+        <target>At Reação Web, I worked on the development and maintenance of various websites, integrations, and customized systems. I contributed to the development of a SaaS platform for medical clinics, built numerous e-commerce stores, led the development of the company's internal system, worked on maintaining a system used in notaries, and participated in the development of an investment platform.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3075061682162919335" datatype="html">
+        <source>Fiz estágio na RSN Brasil como desenvolvedor web atuando no desenvolvimento de sites tanto no sistema interno da empresa como no site de parceiros, também atuei no desenvolvimento de uma plataforma de indicações de uma fintech.</source>
+        <target>I interned at RSN Brasil as a web developer, working on the development of websites for both the company's internal system and partner websites. I also contributed to developing a referral platform for a fintech.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/carrer/carrer.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4735506779424323745" datatype="html">
+        <source>Nascido em 23/03/2000, atualmente moro em Guarulhos, SP, e trabalho como dev há 4 anos</source>
+        <target>Born on 23/03/2000, I currently reside in Guarulhos, SP, and have been working as a developer for 4 years.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6599154689587670284" datatype="html">
+        <source>Tenho como principais características, alta adaptabilidade, ótimo trabalho em equipe, bastante foco e muito esforço, sou um hábil solucionador de problemas e tenho muita ambição e capacidade de esforço para atingir meus objetivos e dos objetivos dos projetos onde trabalho.</source>
+        <target>My main characteristics include high adaptability, excellent teamwork skills, strong focus, and a great deal of effort. I'm adept at problem-solving, ambitious, and have the capacity to put in significant effort to achieve both my own goals and those of the projects I work on.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
     </body>
   </file>
 </xliff>
