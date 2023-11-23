@@ -389,6 +389,14 @@
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="1961074925925439133" datatype="html">
+        <source>Dei meus primeiros passos na área no começo de 2019 onde comecei a desenvolver e dar manutenção em alguns sites e entrei em meu primeiro estágio na RSN Brasil Técnologias no meio do mesmo ano, após pouco mais de uma temporada trabalhando na empresa, encontrei uma nova oportunidade na Reação Web, onde entrei também como estagiário e acabei chegando até o cargo de dev pleno.</source>
+        <target>I took my initial steps in the field at the beginning of 2019, where I started developing and maintaining several websites. I secured my first internship at RSN Brasil Technologies in the middle of the same year. After a brief period at the company, I found a new opportunity at Reação Web, where I also started as an intern and eventually progressed to the position of a full-fledged developer.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
     </body>
   </file>
 </xliff>
