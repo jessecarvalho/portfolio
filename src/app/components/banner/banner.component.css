@@ -1,7 +1,7 @@
 section#banner {
   background-color: #12002d;
   background-size: cover;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -42,6 +42,9 @@ section#banner button:hover{
   background-color: #fff;
 }
 @media screen and (max-width: 768px) {
+  section#banner{
+    padding: 10%;
+  }
   section#banner .row {
     display: flex;
     flex-direction: column;
